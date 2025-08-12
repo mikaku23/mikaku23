@@ -9,7 +9,7 @@
 </p>
 
 
-### Hi there! 👨‍💻
+# Hi there! 👨‍💻
 I'm a dedicated vocational high school student specializing in Informatics Engineering.
 With a solid understanding of web development, I’m passionate about building dynamic websites, improving UI/UX designs, and identifying as well as fixing bugs to create smooth and secure digital experiences.
 
@@ -22,7 +22,7 @@ With a solid understanding of web development, I’m passionate about building d
 🚀 Let’s connect, explore my projects, and create something extraordinary together!  
 
 
----
+
 ## 🌐 Skills 
 <p align="left">
   <!-- HTML -->
@@ -53,7 +53,7 @@ With a solid understanding of web development, I’m passionate about building d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
 </p>
 
----
+
 
 ## 🌏 GitHub Stats
 
@@ -62,17 +62,17 @@ With a solid understanding of web development, I’m passionate about building d
 ![](https://nirzak-streak-stats.vercel.app/?user=mikaku23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaku23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mikaku23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mikaku23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
+
 ## 📫 Contact & Support Me 
 <p align="left">
   <!-- WhatsApp -->
