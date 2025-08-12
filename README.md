@@ -22,16 +22,16 @@ I believe that every great developer isn’t just a coder—they are a problem s
 **📫 Reach me:**  
 <!-- Social Media Badges -->
 <p align="left">
-    <a href="404.html">
+    <a href="about:blank" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="404.html">
+    <a href="about:blank" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
-    <a href="404.html">
+    <a href="about:blank" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="404.html">
+    <a href="about:blank" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
   </p>
