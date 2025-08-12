@@ -74,7 +74,7 @@ I believe that every great developer isn’t just a coder—they are a problem s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 
   <!-- GitHub Copilot -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/GitHub_Copilot_logo.svg" alt="GitHub Copilot" width="50" height="50"/>
+  <img src="github_copilot.png" alt="GitHub Copilot" width="65" height="65"/>
 </p>
 
 ---
