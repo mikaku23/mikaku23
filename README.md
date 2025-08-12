@@ -22,23 +22,6 @@ I believe that every great developer isn’t just a coder—they are a problem s
 🚀 Let’s connect, explore my projects, and create something extraordinary together!  
 
 
-**📫 Reach me:**  
-<!-- Social Media Badges -->
-<p align="left">
-    <a href="about:blank" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="about:blank" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-    </a>
-    <a href="about:blank" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="about:blank" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-  </p>
-
 ---
 ## 🌐 Skills 
 <p align="left">
@@ -53,6 +36,15 @@ I believe that every great developer isn’t just a coder—they are a problem s
   
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  
+  <!-- Kotlin -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+  
+  <!-- .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
   
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
@@ -63,39 +55,24 @@ I believe that every great developer isn’t just a coder—they are a problem s
 
 ---
 
-## 🛠 Tools & Software
-
-<p align="left">
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-
-  <!-- GitHub Copilot -->
-  <img src="github_copilot.png" alt="GitHub Copilot" width="65" height="65"/>
-</p>
-
----
 ## 🌏 GitHub Stats
 
 <!-- GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaku23&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaku23&theme=radical" alt="GitHub Streak" height="150"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mikaku23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mikaku23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaku23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaku23&theme=react-dark" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mikaku23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mikaku23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
 ## 📫 Contact & Support Me 
 <p align="left">
   <!-- WhatsApp -->
@@ -121,4 +98,5 @@ I believe that every great developer isn’t just a coder—they are a problem s
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
+
 
