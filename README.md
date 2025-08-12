@@ -1,6 +1,8 @@
-<!-- Banner / Header -->
-<h1 align="left">Hello World I'm a student 👋</h1>
-
+<!-- Banner Animasi -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F79C&center=true&vCenter=true&width=500&lines=Hi👋+I'm;Student+Vocational+High+School;Web+Development;UI/UX;Informatics+Engineering" alt="Typing SVG" />
+</p>
+<hr>
 <!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/mikaku23/mikaku23/blob/main/banner2.png?raw=true" alt="Banner" width="100%"  />
@@ -17,7 +19,6 @@ I believe that every great developer isn’t just a coder—they are a problem s
 
 🚀 Let’s connect, explore my projects, and create something extraordinary together!  
 
----
 
 **📫 Reach me:**  
 <!-- Social Media Badges -->
@@ -37,7 +38,7 @@ I believe that every great developer isn’t just a coder—they are a problem s
   </p>
 
 ---
-## 🛠 Skills
+## 🌐 Skills 
 <p align="left">
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
@@ -57,3 +58,52 @@ I believe that every great developer isn’t just a coder—they are a problem s
   <!-- Laravel -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
 </p>
+
+---
+
+## 🛠 Tools & Software
+
+<p align="left">
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+
+  <!-- GitHub Copilot -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/GitHub_Copilot_logo.svg" alt="GitHub Copilot" width="50" height="50"/>
+</p>
+
+---
+## 🌏 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikaku23&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaku23&theme=radical" alt="GitHub Streak" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaku23&theme=react-dark" />
+</p>
+
+---
+
+## 🗳️ Support Me
+
+<p align="center">
+  <a href="https://saweria.co/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-FD7E14?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" />
+  </a>
+  <a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+> "Code is like humor. When you have to explain it, it’s bad."
