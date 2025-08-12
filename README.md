@@ -15,7 +15,7 @@ With a solid understanding of web development, I’m passionate about building d
 
 💡 My mission is to sharpen my skills in crafting innovative web solutions, enhance user interaction through thoughtful design, and ensure every project runs flawlessly.
 
-I believe that every great developer isn’t just a coder—they are a problem solver, a creator, and a visionary who turns ideas into reality.
+> "I believe that every great developer isn’t just a coder—they are a problem solver, a creator, and a visionary who turns ideas into reality."
 
 > "Code is like humor. When you have to explain it, it’s bad."
 
