@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<h1 align="center">Hello World I am a student 👋</h1>
 
-<!--
-**mikaku23/mikaku23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.jpg" alt="Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Hi there! 👨‍💻
+I'm a dedicated vocational high school student specializing in Informatics Engineering.
+With a solid understanding of web development, I’m passionate about building dynamic websites, improving UI/UX designs, and identifying as well as fixing bugs to create smooth and secure digital experiences.
+
+💡 My mission is to sharpen my skills in crafting innovative web solutions, enhance user interaction through thoughtful design, and ensure every project runs flawlessly.
+
+I believe that every great developer isn’t just a coder—they are a problem solver, a creator, and a visionary who turns ideas into reality.
+
+🚀 Let’s connect, explore my projects, and create something extraordinary together!  
+
+---
+
+**📫 Reach me:**  
+[Instagram](https://instagram.com/yourusername) • [TikTok](https://tiktok.com/@yourusername) • [LinkedIn](https://linkedin.com/in/yourusername) • [YouTube](https://youtube.com/yourchannel)
