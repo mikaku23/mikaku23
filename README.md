@@ -1,11 +1,25 @@
 <!-- Banner / Header -->
-<h1 align="center">Hello World I am a student 👋</h1>
+<h1 align="center">Hello World I'm a student 👋</h1>
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.jpg" alt="Banner" width="100%" />
+  <img src="[https://your-banner-image-link.com/banner.jpg](https://github.com/mikaku23/mikaku23/blob/main/banner.png?raw=true)" alt="Banner" width="100%" />
 </p>
 
+
+### Hi there! 👨‍💻
+I'm a dedicated vocational high school student specializing in Informatics Engineering.
+With a solid understanding of web development, I’m passionate about building dynamic websites, improving UI/UX designs, and identifying as well as fixing bugs to create smooth and secure digital experiences.
+
+💡 My mission is to sharpen my skills in crafting innovative web solutions, enhance user interaction through thoughtful design, and ensure every project runs flawlessly.
+
+I believe that every great developer isn’t just a coder—they are a problem solver, a creator, and a visionary who turns ideas into reality.
+
+🚀 Let’s connect, explore my projects, and create something extraordinary together!  
+
+---
+
+**📫 Reach me:**  
 <!-- Social Media Badges -->
 <p align="center">
   <a href="https://instagram.com/yourusername" target="_blank">
@@ -23,18 +37,3 @@
 </p>
 
 ---
-
-### Hi there! 👨‍💻
-I'm a dedicated vocational high school student specializing in Informatics Engineering.
-With a solid understanding of web development, I’m passionate about building dynamic websites, improving UI/UX designs, and identifying as well as fixing bugs to create smooth and secure digital experiences.
-
-💡 My mission is to sharpen my skills in crafting innovative web solutions, enhance user interaction through thoughtful design, and ensure every project runs flawlessly.
-
-I believe that every great developer isn’t just a coder—they are a problem solver, a creator, and a visionary who turns ideas into reality.
-
-🚀 Let’s connect, explore my projects, and create something extraordinary together!  
-
----
-
-**📫 Reach me:**  
-[Instagram](https://instagram.com/yourusername) • [TikTok](https://tiktok.com/@yourusername) • [LinkedIn](https://linkedin.com/in/yourusername) • [YouTube](https://youtube.com/yourchannel)
