@@ -1,9 +1,9 @@
 <!-- Banner / Header -->
-<h1 align="center">Hello World I'm a student 👋</h1>
+<h1 align="left">Hello World I'm a student 👋</h1>
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-banner-image-link.com/banner.jpg](https://github.com/mikaku23/mikaku23/blob/main/banner.png?raw=true)" alt="Banner" width="100%" />
+  <img src="https://github.com/mikaku23/mikaku23/blob/main/banner.png?raw=true" alt="Banner" width="100%" />
 </p>
 
 
@@ -21,7 +21,7 @@ I believe that every great developer isn’t just a coder—they are a problem s
 
 **📫 Reach me:**  
 <!-- Social Media Badges -->
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
