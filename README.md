@@ -17,6 +17,8 @@ With a solid understanding of web development, I’m passionate about building d
 
 I believe that every great developer isn’t just a coder—they are a problem solver, a creator, and a visionary who turns ideas into reality.
 
+> "Code is like humor. When you have to explain it, it’s bad."
+
 🚀 Let’s connect, explore my projects, and create something extraordinary together!  
 
 
@@ -87,23 +89,36 @@ I believe that every great developer isn’t just a coder—they are a problem s
 </p>
 
 ---
-
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikaku23&theme=react-dark" />
 </p>
 
 ---
 
-## 🗳️ Support Me
+## 📫 Contact & Support Me 
+<p align="left">
+  <!-- WhatsApp -->
+  <a href="about:blank" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
-<p align="center">
-  <a href="https://saweria.co/USERNAME" target="_blank">
+  <!-- Instagram -->
+  <a href="about:blank" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="about:blank" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br>
+   <a href="about:blank" target="_blank">
     <img src="https://img.shields.io/badge/Saweria-FD7E14?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" />
   </a>
-  <a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
+  <a href="about:blank" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
 
----
-> "Code is like humor. When you have to explain it, it’s bad."
