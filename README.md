@@ -61,7 +61,7 @@ With a solid understanding of web development, I’m passionate about building d
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mikaku23&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mikaku23&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ## 📊 Profile Views
