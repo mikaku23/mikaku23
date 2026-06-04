@@ -56,12 +56,12 @@ With a solid understanding of web development, I’m passionate about building d
 ## 🌏 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaku23&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaku23&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mikaku23&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikaku23&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mikaku23&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mikaku23&theme=dark&hide_border=true" />
 </p>
 
 ## 📊 Profile Views
