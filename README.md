@@ -74,7 +74,7 @@ With a solid understanding of web development, I’m passionate about building d
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mikaku23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mikaku23&theme=onedark&no-frame=true&no-bg=true&margin-w=8)
 
 ## 🔝 Top Contributed Repo
 
