@@ -1,6 +1,6 @@
 <!-- Banner Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F79C&center=true&vCenter=true&width=500&lines=Hi👋+I'm;Student+Vocational+High+School;Web+Development;UI/UX;Informatics+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F79C&center=true&vCenter=true&width=500&lines=Hi👋+I'm;Student+Vocational+High+School;Web+Development;UI/UX;Software+Engineering" alt="Typing SVG" />
 </p>
 <hr>
 <!-- Banner Image -->
@@ -64,12 +64,9 @@ With a solid understanding of web development, I’m passionate about building d
 <img src="https://streak-stats.demolab.com?user=mikaku23&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 👀 Profile Analytics
+## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikaku23&label=👀%20Visitors&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mikaku23?label=Followers&style=for-the-badge&color=blue" />
-</p>
+![](https://komarev.com/ghpvc/?username=mikaku23&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ## 📈 Activity Graph
 
