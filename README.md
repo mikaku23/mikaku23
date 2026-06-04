@@ -64,20 +64,16 @@ With a solid understanding of web development, I’m passionate about building d
 <img src="https://streak-stats.demolab.com?user=mikaku23&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 📊 Profile Views
+## 👀 Profile Analytics
 
-![](https://komarev.com/ghpvc/?username=mikaku23&color=blueviolet&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikaku23&label=👀%20Visitors&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/mikaku23?label=Followers&style=for-the-badge&color=blue" />
+</p>
 
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikaku23&theme=github-dark)](https://github.com/mikaku23)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mikaku23&theme=onedark&no-frame=true&no-bg=true&margin-w=8)
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=mikaku23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📫 Contact & Support Me 
 <p align="left">
