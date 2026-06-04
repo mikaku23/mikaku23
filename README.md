@@ -53,26 +53,24 @@ With a solid understanding of web development, I’m passionate about building d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
 </p>
 
-
-
 ## 🌏 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=mikaku23&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikaku23&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaku23&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=mikaku23&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mikaku23&theme=github-dark-blue&hide_border=true" />
+</p>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikaku23&layout=compact&theme=dark)
+## 📊 Profile Views
 
+![](https://komarev.com/ghpvc/?username=mikaku23&color=blueviolet&style=flat)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mikaku23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 Activity Graph
 
-
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mikaku23&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikaku23&theme=github-dark)](https://github.com/mikaku23)
 
 ## 📫 Contact & Support Me 
 <p align="left">
